@@ -10,7 +10,7 @@ A calm task and notes app for Android. Works fully offline. Your data stays on y
 [![Downloads](https://img.shields.io/github/downloads/AdrielTTE/cairn/total?style=flat-square&color=5b4636)](../../releases)
 ![Android](https://img.shields.io/badge/Android-7.0%2B-5b4636?style=flat-square)
 
-[**Download the APK**](../../releases/latest) · [Case study](https://portfolio-lemon-sigma-58.vercel.app/work/cairn) · [Privacy](https://adrieltte.github.io/cairn-privacy/)
+[**Download the APK**](../../releases/latest) · [Case study](https://appliedtheory.vercel.app/work/cairn) · [Privacy](https://adrieltte.github.io/cairn-privacy/)
 
 <br>
 
@@ -65,4 +65,4 @@ Cairn collects nothing. Your data stays on your device unless you connect Google
 
 Found a bug or want something added? [Open an issue](../../issues).
 
-<sub>Built by [Adriel Tang](https://portfolio-lemon-sigma-58.vercel.app/) with Flutter.</sub>
+<sub>Built by [Adriel Tang](https://appliedtheory.vercel.app/) with Flutter.</sub>
